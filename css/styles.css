@@ -1,0 +1,98 @@
+body{
+  margin:0;
+  text-align: center;
+}
+.top-container{
+  background-color:#E4FBFF;
+  position:relative;
+  padding-top:100px;
+  padding-bottom:0;
+}
+.name{
+  color:#A4EBF3;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin-bottom:0;
+}
+h2{
+  color: #A4EBF3;
+  font-family: 'Acme', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  line-height: 2;
+}
+h3{
+    color: #A4EBF3;
+  font-family: 'Mandali', sans-serif;
+}
+.kiit{
+  color:#A4EBF3;
+  text-decoration: none;
+}
+.kiit:hover{
+  color:#F9F9F9;
+}
+.top-cloud{
+  position: absolute;
+  top:50px;
+  right:250px;
+}
+.bottom-cloud{
+  position:absolute;
+  left:250px;
+  bottom:300px;
+}
+.mountain{
+  margin-bottom:0;
+}
+.middle-container{
+  padding-top:10px;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+.language{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.concept{
+  width: 25%;
+  float: right;
+}
+.study{
+  margin-bottom: 100px;
+}
+hr{
+  width: 10%;
+  border-top-style: dotted;
+  border-color:grey;
+  border-left-style: none;
+  border-right-style:none;
+  border-bottom-style: none;
+  border-width:5px;
+}
+.contact-me{
+  background-color:#39A2DB;
+  margin-top: 100px;
+  padding-top:40px;
+  padding-bottom: 60px;
+}
+.footer-link{
+  color:#A4EBF3;
+  text-decoration:none;
+  margin: 20px 10px;
+  font-family: 'Mandali', sans-serif;
+}
+.footer-link:hover{
+  color:#F9F9F9;
+}
+.copyright{
+  color: #F9F9F9;
+}
+.boy{
+  margin-top:50px;
+}
